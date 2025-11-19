@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2025-11-19T07:44:08.568Z",
+  "generatedAt": "2025-11-19T07:57:35.100Z",
   "messages": [
     "aremis9.json",
+    "badfile.json",
     "devMapute.json",
     "example.json",
     "kurt.json",
-    "techstart-team.json",
-    "dne.json"
+    "techstart-team.json"
   ]
 }
